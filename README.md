@@ -1,4 +1,4 @@
-# Cyclone-Predicting-Model--EDUNET---AICTE-GREEN-SKILL-AI-INTERNSHIP-
+# Cyclone-Predicting-Model || AICTE-AI-INTERNSHIP-
 
 
 🌪️ **Cyclone Predicting Model**:
