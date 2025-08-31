@@ -1,8 +1,10 @@
 # Cyclone-Predicting-Model--EDUNET---AICTE-GREEN-SKILL-AI-INTERNSHIP-
 
 
-🌪️ **Cyclone Predicting Model**
+🌪️ **Cyclone Predicting Model**:
+
 A simple machine learning model to predict the formation and intensity of tropical cyclones based on historical weather data.
+
 
 
 🔍 **Overview**
