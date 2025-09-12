@@ -28,7 +28,7 @@ A machine learning powered web app built with Streamlit that predicts the chance
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
@@ -43,7 +43,7 @@ A machine learning powered web app built with Streamlit that predicts the chance
 
 
 
-📊 Dataset
+## 📊 Dataset
 
 
 The model is trained on a synthetic cyclone dataset with features:
@@ -67,7 +67,7 @@ Target variable: Cyclone (0 = No, 1 = Yes)
 
 
 
-🚀 Results & Evaluation
+## 🚀 Results & Evaluation
 
 
 ✅ Model Accuracy: ~91.66% (after balancing dataset)
