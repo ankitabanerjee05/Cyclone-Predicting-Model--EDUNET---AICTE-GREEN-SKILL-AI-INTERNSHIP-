@@ -9,7 +9,7 @@ A machine learning powered web app built with Streamlit that predicts the chance
 
 
 
-✨ Features
+✨ Features  
 
 
 📊 Data Preprocessing & Cleaning – ensures input quality for accurate predictions
