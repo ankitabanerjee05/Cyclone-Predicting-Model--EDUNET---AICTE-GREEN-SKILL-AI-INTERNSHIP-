@@ -9,7 +9,7 @@ A machine learning powered web app built with Streamlit that predicts the chance
 
 ✨ Features
 
-📊 Data Preprocessing & Cleaning – ensures input quality for accurate predictions
+📊 Data Preprocessing & Cleaning – ensures input quality for accurate predictions/n
 🔍 Exploratory Data Analysis (EDA) – visualizations for better understanding
 🤖 Machine Learning Model – Random Forest Classifier for robust predictions
 🌐 Interactive Web App – built using Streamlit for a clean, responsive UI
